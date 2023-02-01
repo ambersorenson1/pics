@@ -7,7 +7,7 @@ const [term, setTerm] = useState('');
     event.preventDefault();
     
     
-    onSubmit('')
+    onSubmit(term)
     
   };
 
